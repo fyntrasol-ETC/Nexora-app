@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "94588431148",
+    "project_id": "nexora-142ab",
+    "storage_bucket": "nexora-142ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94588431148:android:473153ecadd85c6aedda89",
+        "android_client_info": {
+          "package_name": "com.nexora_app.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94588431148-28jjd78thm6r9bl60u4pbehn3c27b5i2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nexora_app.app",
+            "certificate_hash": "8ffd6a3358051a50e5eb1dac7179673d0f9f0304"
+          }
+        },
+        {
+          "client_id": "94588431148-vfvqfpc0f3p29ers5a46p6udu222odas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzAOD7T-fG61KLrMETCKU-hnKXBKiZ-cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94588431148-vfvqfpc0f3p29ers5a46p6udu222odas.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "94588431148-c9v5h3taehhv9jse5jlf6sit1m98djiu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nexoras.nexoraapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
